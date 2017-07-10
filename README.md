@@ -1,10 +1,10 @@
 # aynim.github.io
-Welcome to my Website!!
 <!DOCTYPE html>
 <html>
-<head>
-<title> Ayni Mohamed</title>
+<title>Page Title</title>
 </head>
 <body>
-<h1>My first Heading</h1>
-<p>Biography.</p>
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+</body>
+</html>
